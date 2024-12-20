@@ -1,6 +1,6 @@
 # Hi, I'm Miftahul Jannat! 👋
 
-I'm currently learning the MERN stack and working on projects using Flask.
+👋 Hi, I'm Miftahul Jannat, a CSE student passionate about coding, web development, and AI. 🚀
 
 ## About Me
 
