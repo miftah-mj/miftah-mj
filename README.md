@@ -9,7 +9,11 @@
 -   💡 Interested in problem-solving and gaining new skills
 -   📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/miftahul-jannat-mj/)
 
-## Skills
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -41,6 +45,12 @@
 
 ###
 
-## GitHub Stats
+<h3 align="left">🔥   My Stats :</h3>
 
-![Miftah's GitHub stats](https://github-readme-stats.vercel.app/api?username=miftah1299&show_icons=true&theme=radical)
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
