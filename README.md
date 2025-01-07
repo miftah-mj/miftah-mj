@@ -55,10 +55,8 @@
 
 ###
 
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=miftah1299&theme=radical&hide_border=true" height="180" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miftah1299&theme=radical&hide_border=true" height="180" alt="GitHub streak stats" />
 </div>
 
 ###
