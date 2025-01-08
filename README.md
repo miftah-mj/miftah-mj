@@ -1,3 +1,9 @@
+<div align="right">
+  <img height="200" src="https://i.ibb.co.com/2WQCmvD/Designer-1.jpg"  />
+</div>
+
+###
+
 # Hi, I'm Miftahul Jannat! 👋
 
 👋 Hi, I'm Miftahul Jannat, a CSE student passionate about coding, web development, and AI. 🚀
