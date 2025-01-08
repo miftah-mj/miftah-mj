@@ -4,7 +4,7 @@
 
 ###
 
-# Hi, I'm Miftahul Jannat! 👋
+# Hi, I'm Miftahul Jannat! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 👋 Hi, I'm Miftahul Jannat, a CSE student passionate about coding, web development, and AI. 🚀
 
