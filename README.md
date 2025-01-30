@@ -60,3 +60,9 @@ A CSE student passionate about coding, web development, and AI. 🚀
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/miftah-mj/count.svg?"  />
+</div>
+
+###
