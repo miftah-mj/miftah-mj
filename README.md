@@ -60,15 +60,3 @@ A CSE student passionate about coding, web development, and AI. 🚀
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miftah-mj&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/miftah-mj/count.svg?"  />
-</div>
-
-###
