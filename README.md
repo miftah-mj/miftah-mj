@@ -1,5 +1,5 @@
 <div align="right">
-  <img height="200" src="https://i.ibb.co.com/2WQCmvD/Designer-1.jpg"  />
+  <img height="200" src="https://i.ibb.co.com/ZyFw3wW/Linked-In-Banner.png"  />
 </div>
 
 ###
