@@ -6,7 +6,7 @@
 
 # Hi, I'm Miftahul Jannat! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-👋 Hi, I'm Miftahul Jannat, a CSE student passionate about coding, web development, and AI. 🚀
+A CSE student passionate about coding, web development, and AI. 🚀
 
 ## About Me
 
@@ -57,6 +57,12 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=miftah-mj&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miftah-mj&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph"  />
 </div>
 
 ###
