@@ -60,7 +60,7 @@ A CSE student passionate about coding, web development, and AI. 🚀
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=miftah-mj&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app?user=miftah-mj&theme=dark" height="220" alt="streak graph"  />
 </div>
 
 ###
