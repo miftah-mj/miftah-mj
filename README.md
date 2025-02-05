@@ -40,6 +40,10 @@ A CSE student passionate about coding, web development, and AI. 🚀
 
 ###
 
+<h3 align="left">Connect with me:</h3>
+
+###
+
 <div align="left" style="display: flex; gap: 12px;">
   <a href="https://www.linkedin.com/in/miftahuljannat-mj/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -51,12 +55,18 @@ A CSE student passionate about coding, web development, and AI. 🚀
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=miftah-mj&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miftah-mj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
