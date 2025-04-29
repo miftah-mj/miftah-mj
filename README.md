@@ -63,13 +63,13 @@ A CSE student passionate about coding, web development, and AI. 🚀
 ###
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=Mifta-hul-Jannat&theme=dark" height="220" alt="streak graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app?user=miftah-mj&theme=dark" height="220" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mifta-hul-Jannat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miftah-mj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
